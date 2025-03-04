@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgroovy-core.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgroovy-core?ref=badge_shield)
+
 = Groovy
 
 [NOTE]
@@ -7,3 +9,7 @@ You can access it via this git URL: git://git.apache.org/groovy.git
 
 [NOTE]
 To contribute pull requests use the Apache Github mirror for the Groovy project: https://github.com/apache/groovy
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fgroovy-core.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fgroovy-core?ref=badge_large)
